@@ -1,0 +1,12 @@
+[SddmGreeterTheme]
+Name=Miprota
+Description=Material Design 3 login theme for SDDM
+Author=Neo & Claude
+Copyright=(c) 2026
+License=MIT
+Type=sddm-theme
+Version=0.1
+Theme-Id=miprota
+Theme-API=2.0
+MainScript=Main.qml
+ConfigFile=theme.conf
